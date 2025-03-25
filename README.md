@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, this is Nick 👋 I am an educator, mentor and aspiring data scientist with domain experience in sustainable and international development.
 
 <!--
 **nicholas-ongom/nicholas-ongom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

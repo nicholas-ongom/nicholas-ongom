@@ -7,6 +7,15 @@ I am an educator, mentor and aspiring data scientist with domain experience in s
 - Data modeling and Interpretation using H2O autoML in R
 - Creating recommendation algorithm for the organization
 
+## 🔨 Tools:
+Python, R, SQL
+
+## 🏆 Certifications:
+Business Science University(BSU) Data Science, edX IBM certificate, UDEMY(Python bootcamp)
+
+
+
+
 <!--
 **nicholas-ongom/nicholas-ongom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

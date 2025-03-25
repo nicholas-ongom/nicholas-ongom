@@ -1,10 +1,11 @@
-## Hi there, this is Nick 👋 
+## Hi there 👋 
+I am Nick.
 I am an educator, mentor and aspiring data scientist with domain experience in sustainable and international development. In the past years I have developed skills in data wrangling, modeling, predictive analysis and reporting.
 
-- [Conducting exploratory data analysis (R and Python)]
-- [Data wrangling and visualization (R and Python)]
-- [Data modeling and Interpretation using H2O autoML in R]
-- [Creating recommendation algorithm for the organization]
+- Conducting exploratory data analysis (R and Python)
+- Data wrangling and visualization (R and Python)
+- Data modeling and Interpretation using H2O autoML in R
+- Creating recommendation algorithm for the organization
 
 <!--
 **nicholas-ongom/nicholas-ongom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
